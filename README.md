@@ -1,15 +1,23 @@
-# Lesson 1 Practice
+# Lesson 2.1 Practice (Strings 1)
 
-Use this repository (repo, for short) to complete your practice for Lesson 1.
+Use this repo to complete your practice for Lesson 2.1.
 
 ## Complete the following:
 #### Edpuzzle
 * [Edpuzzle practice](edpuzzle_practice.py) 🥉
   * Use this for practice during the Edpuzzle video. You can use the main window or the Python Console (see button at the bottom of the PyCharm window)
 
-#### Parsons Puzzles  
-* [Parsons Puzzle #1: print](https://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/print.html) 🥉
-* [Parsons Puzzle #2: input & print](https://athenian-computer-science.github.io/hosting-parsons-on-github-template/parsons/input-print.html)  🥉
+#### ReadingBat
+Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
+**len()**
+* [len1](https://www.readingbat.com/content/python/String%20Operations/strlen1) 🥉
+**Slicing**
+* [slice2](https://www.readingbat.com/content/python/String%20Operations/slice2) 🥉
+* [slice4](https://www.readingbat.com/content/python/String%20Operations/slice4) 🥈
+* [slice5](https://www.readingbat.com/content/python/String%20Operations/slice5) 🥉
+**Concatenation**
+* [concat1](https://www.readingbat.com/content/python/String%20Operations/concat1) 🥉
+* [concat2](https://www.readingbat.com/content/python/String%20Operations/concat2) 🥈
 
 #### Fix & Write Code  
 * [Fix the Code #1](fix_code_1.py) 🥉
