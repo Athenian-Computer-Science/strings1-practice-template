@@ -58,7 +58,7 @@ Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
     Enter a third word: (kite)
     output: apple purple kite
     ```
-* [Fix the Code #3](fix_code_3.py) 🥉
+* [Fix the Code #3](fix_code_3.py) 🥈
   * This program should:
     * Assign `Athenian Wilderness Experience` to `junior_year`.
     * Use string slicing to get `Wilderness` and print it.
