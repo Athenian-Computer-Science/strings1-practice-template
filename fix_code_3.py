@@ -5,7 +5,9 @@
 #
 #############################
 
-# Fix the lines of code below:
+# Convert the pseudocode into python:
 
-input(Enter your favorite ice cream flavor: ) = ice_cream
-print("I like {ice_cream} too!')
+junior year = Athenian Wilderness Experience
+fragment = slice(junior year)
+length = length(slice)
+print(Length: length of slice)    # note the space between the colon and where the variable will go!

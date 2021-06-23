@@ -9,41 +9,73 @@ Use this repo to complete your practice for Lesson 2.1.
 
 #### ReadingBat
 Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
+
 **len()**
 * [len1](https://www.readingbat.com/content/python/String%20Operations/strlen1) 🥉
+
 **Slicing**
 * [slice2](https://www.readingbat.com/content/python/String%20Operations/slice2) 🥉
 * [slice4](https://www.readingbat.com/content/python/String%20Operations/slice4) 🥈
 * [slice5](https://www.readingbat.com/content/python/String%20Operations/slice5) 🥉
+
 **Concatenation**
 * [concat1](https://www.readingbat.com/content/python/String%20Operations/concat1) 🥉
 * [concat2](https://www.readingbat.com/content/python/String%20Operations/concat2) 🥈
 
 #### Fix & Write Code  
 * [Fix the Code #1](fix_code_1.py) 🥉
-  * Fix the code so it prints a greeting. 
-    * Expected output: `Welcome to CompSci!`
-    * GitHub will test your solution when you submit. See instructions at the end of this page.
+  * A quote from Boris Beizer is provided three times. Format each to display nicely on the screen, using different formatting techniques. 
+    * You should not have to scroll sideways to see the output!
+  * Be sure to use a multi-line quote, \n and \t escape characters, and any other formatting you wish.  
+  * Be sure to run your program to be sure it works correctly. (There is no test code for this.)
 * [Write Code #1](write_code_1.py) 🥈
-  * Tell the computer to print your own greeting/message.
+  * Write a (very) short play (4-6 lines). As with any script, each character's dialogue should be displayed on their own line. 
+  * Here's the catch: you can only use 1 print statement!! 😲
+  * Use `\n` and `\t` at least once in your program. You may also use multi-line strings or any other formatting you wish.
 * [Fix the Code #2](fix_code_2.py) 🥉
-  * This program should assign the string "geometry" to the variable `math_class` and print a response. 
-    * Your print statement should use a formatted string (f-string) to insert the value of the variable into the sentence.
-      * Expected output: `My favorite class is geometry!`
-    * GitHub will run a test on this when you submit it.
+  * This program should:
+    * prompt the user for two different strings
+    * concatenate them
+    * print the result and the length of the new string
+  
+  Example:
+  ```buildoutcfg
+  Enter a word: (buffalo)
+  Enter another word: (tiger)
+  The string buffalotiger has 12 letters.
+  ```
+  * **Note:** there is a GitHub test for this. Be sure the output format matches the example.
+      
 * [Write Code #2](write_code_2.py) 🥈
-  * Write a short program that assigns one of your hobbies to the variable `hobby` and prints a response. Be sure to use an f-string in your print statement to insert the value of the variable into your response.
-* [Fix the Code #3](fix_code_3.py) 🥉
-  * This program should collect the user's favorite flavor of ice cream. The computer should then respond that it likes that flavor too. Unfortunately, the program doesn't work yet. Please fix it so it works correctly.
-    *  Sample output (sample input in parentheses):
-     ```
-    What is your favorite ice cream flavor?  (peach)
-    I like peach too!
+  * Prompt the user for three strings
+  * Concatenate them together with spaces between them
+  * Print the result
+  
+  Example:
+    ```buildoutcfg
+    Enter a word: (apple)
+    Enter a second word: (purple)
+    Enter a third word: (kite)
+    output: apple purple kite
     ```
-  * Be sure to format your print statement correctly. GitHub will test your solution.
+* [Fix the Code #3](fix_code_3.py) 🥉
+  * This program should:
+    * Assign `Athenian Wilderness Experience` to `junior_year`.
+    * Use string slicing to get `Wilderness` and print it.
+    * Calculate the length of `Wilderness`
+    * Print the length
+  * This is tested by GitHub. Pay attention to the formatting of the output.
+  Example:
+    ```buildoutcfg
+    first output: Wilderness
+    second output: Length: 10
+    ```
+  
 * [Write Code #3](write_code_3.py) 🥉
-  * Write a program that asks the user a question, saves their response in a variable and then prints a response using that variable. You get to choose the topic this time! 🎉
+  * Assign `supercalifragilisticexpialidocious` to a variable.
+  * Use string slicing to print the string `agilisitic`
+  * This is tested by GitHub. Pay attention to the output.
 
 ### Submitting your Repo
-* When you have completed each
+When you are done, commit and push to GitHub. Then, check the repo in your browser to be sure it passed the tests.
 

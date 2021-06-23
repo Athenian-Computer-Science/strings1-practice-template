@@ -5,4 +5,4 @@
 #
 #############################
 
-# Write your code here:
+# Write your code here. (Remember to pay attention to output formatting!)

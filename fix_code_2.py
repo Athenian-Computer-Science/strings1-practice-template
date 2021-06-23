@@ -5,7 +5,15 @@
 #
 #############################
 
-# Fix the line of code below:
+# Get inputs
+word1 = get input here
+word2 = get input here
 
-geometry = math class
-print "My favorite class is (math_class)!"
+# Concatenate strings
+new word =
+
+# Calculate length of new word
+new word = length(new word)
+
+# print the result
+print(The string "new word" has ____ letters.)
