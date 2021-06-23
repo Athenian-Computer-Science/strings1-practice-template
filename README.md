@@ -58,24 +58,28 @@ Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
     Enter a third word: (kite)
     output: apple purple kite
     ```
+  * **Note:** there is a GitHub test for this. Be sure the output format matches the example.
+  
 * [Fix the Code #3](fix_code_3.py) 🥈
   * This program should:
     * Assign `Athenian Wilderness Experience` to `junior_year`.
     * Use string slicing to get `Wilderness` and print it.
     * Calculate the length of `Wilderness`
     * Print the length
-  * This is tested by GitHub. Pay attention to the formatting of the output.
   Example:
     ```buildoutcfg
     first output: Wilderness
     second output: Length: 10
     ```
+    * **Note:** there is a GitHub test for this. Be sure the output format matches the example.
   
 * [Write Code #3](write_code_3.py) 🥉
   * Assign `supercalifragilisticexpialidocious` to a variable.
   * Use string slicing to print the string `agilisitic`
-  * This is tested by GitHub. Pay attention to the output.
+  * **Note:** there is a GitHub test for this. Be sure the output format matches the example.
 
 ### Submitting your Repo
 When you are done, commit and push to GitHub. Then, check the repo in your browser to be sure it passed the tests.
+
+**Note:** If you are pressed for time and are excused from the 🥈 exercises, GitHub will not display a green ✔. See Megan for help checking to be sure the 🥉 exercises passed the tests.
 
