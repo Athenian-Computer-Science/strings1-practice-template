@@ -24,9 +24,10 @@ Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
 
 #### Fix & Write Code  
 * [Fix the Code #1](src/fix_code_1.py) 🥉
-  * A quote from Boris Beizer is provided three times. Format each to display nicely on the screen, using different formatting techniques. 
+  * A quote from Boris Beizer is provided. Format it to display nicely on the screen when it prints. 
     * You should not have to scroll sideways to see the output!
-  * Be sure to use a multi-line quote, \n and \t escape characters, and any other formatting you wish.  
+    * Be sure to use a multi-line quote, \n and \t escape characters, and any other formatting you wish.
+    * Note that the style conventions state that there should only be 79 characters in a line. Format your paragraphs a  
   * Be sure to run your program to be sure it works correctly. (There is no test code for this.)
 * [Write Code #1](src/write_code_1.py) 🥈
   * Write a (very) short play (4-6 lines). As with any script, each character's dialogue should be displayed on their own line. 

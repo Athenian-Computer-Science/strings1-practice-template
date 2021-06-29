@@ -50,8 +50,3 @@ jobs:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       with:
         path: .github/ISSUE_TEMPLATE/test-success.md
-
-
-
-
-
