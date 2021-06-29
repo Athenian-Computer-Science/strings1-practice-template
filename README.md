@@ -39,7 +39,7 @@ Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
     * print the result and the length of the new string
   
   Example:
-  ```buildoutcfg
+  ```
   Enter a word: (buffalo)
   Enter another word: (tiger)
   The string buffalotiger has 12 letters.
@@ -52,7 +52,7 @@ Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
   * Print the result
   
   Example:
-    ```buildoutcfg
+    ```
     Enter a word: (apple)
     Enter a second word: (purple)
     Enter a third word: (kite)
@@ -66,8 +66,9 @@ Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
     * Use string slicing to get `Wilderness` and print it.
     * Calculate the length of `Wilderness`
     * Print the length
+  
   Example:
-    ```buildoutcfg
+    ```
     first output: Wilderness
     second output: Length: 10
     ```
