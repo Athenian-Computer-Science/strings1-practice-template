@@ -85,3 +85,7 @@ When you are done, commit and push to GitHub. Then, check the repo in your brows
 
 **Note:** If you are pressed for time and are excused from the 🥈 exercises, GitHub will not display a green ✔. See Megan for help checking to be sure the 🥉 exercises passed the tests.
 
+
+**Attribution:**
+
+Thank you to Bianca Ruiz [@RuiztheRuler](https://github.com/RuizTheRuler) for providing a great starting place for automating feedback!
