@@ -10,7 +10,7 @@ Use this repo to complete your practice for Lesson 2.1.
 #### ReadingBat
 Complete each exercise linked below. **Be sure you are logged into ReadingBat!**
 
-**len()**
+**Length**
 * [len1](https://www.readingbat.com/content/python/String%20Operations/strlen1) 🪁
 
 **Slicing**
